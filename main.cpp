@@ -5,6 +5,6 @@ int main(){
     auto x=[](auto a, auto b){
     	return a+b;
     };
-    cout<<x(2.5, 2.6);
+    std::cout<<x(2.5, 2.6);
 }
 
