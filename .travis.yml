@@ -18,3 +18,5 @@ matrix:
           packages:
             - clang-3.8
           sources: *sources
+script:
+  make main
